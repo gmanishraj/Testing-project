@@ -1,0 +1,13 @@
+<suite name="Suite">
+  <test name="Test">
+  <groups>
+  	<run>
+  		<include name="customer"/>
+  	</run>
+  </groups>
+    <classes>
+      <class name="qsp.DemoA"/>
+      <class name="qsp.DemoB"/>
+    </classes>
+  </test>
+</suite>
